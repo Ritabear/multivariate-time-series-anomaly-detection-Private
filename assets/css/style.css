@@ -1,0 +1,30 @@
+/* Calculate button  */
+.stSpinner {
+  /* margin-left: 535px; */
+  /*margin-left: 675px; */
+  margin-left: 610px;
+}
+
+/* sidebar > */
+.css-cjzd83 {
+  color: coral;
+}
+
+/* running */
+.css-klqnuk {
+  color: coral;
+}
+
+/* sidebar button */
+[data-baseweb="tag"] {
+  /* color:#cf5a06;
+    background: transparent; */
+  background-color: #cf5a06;
+}
+
+/* sidebar button */
+/* [data-testid="stImage"] {
+  color:#cf5a06;
+    background: transparent;
+  background-color: white;
+} */

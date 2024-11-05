@@ -1,0 +1,17 @@
+{
+   "oneclass_SVM": {
+         "kernel"  : "rbf",
+         "coef0"   : 0,
+         "gamma"   : 0.001,
+         "tol"     : 1e-3,
+         "nu"      : 0.5
+      },
+    
+   "arima": {
+         "sliding_window"  : 5
+      },
+
+   "xgboost": {
+         "sliding_window"  : 5
+      }
+}
